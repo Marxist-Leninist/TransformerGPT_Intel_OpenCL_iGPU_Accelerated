@@ -1,0 +1,11 @@
+my_transformers/
+├── __init__.py
+├── opencl_backend.py
+├── embedding.py
+├── multi_head_attention.py
+├── feed_forward.py
+├── pos_encoding.py
+├── dataset.py
+├── multi_layer_gpt.py
+├── training.py
+└── main.py
